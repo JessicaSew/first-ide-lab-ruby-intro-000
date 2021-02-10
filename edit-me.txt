@@ -1,7 +1,1 @@
 Jessica Sewell
-ls
-
-pwd
-learn
-Hello World!
-learn
